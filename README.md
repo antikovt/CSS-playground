@@ -1,6 +1,7 @@
 # CSS-playground
 A dump of my small-scale CSS exercises and experiments. 
 Basically just things I found cool and wanted to try and replicate.
+Live preview link: https://htmlpreview.github.io/?https://github.com/antikovt/CSS-playground/blob/main/index.html
 
 <b>Page 1:</b> 
 * A fancy "metallic" hover glow effect
