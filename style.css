@@ -131,4 +131,11 @@ body > div:nth-child(3) {
   backdrop-filter: blur(80px);
 }
 
+#blob-container > h2 {
+  font-size: 70pt;
+  color: whitesmoke;
+  text-shadow: 5pt 5pt 5pt black;
+  z-index: 5;
+}
+
 /*# sourceMappingURL=style.css.map */
