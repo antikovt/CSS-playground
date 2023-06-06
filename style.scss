@@ -151,4 +151,7 @@ body {
   color: whitesmoke;
   text-shadow: 5pt 5pt 5pt black;
   z-index: 5;
+  pointer-events: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
 }
